@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "abc"
+  },
+  "player1": {
+    "full_name": "John Doe",
+    "high_score": 0,
+    "password": "123"
+}
+}
